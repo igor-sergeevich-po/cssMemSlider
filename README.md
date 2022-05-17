@@ -1,4 +1,4 @@
 # cssMemSlider
 Прошляпил таск надо делась без JS  =)
 
-https://github.com/igor-sergeevich-po/cssMemSlider
+https://igor-sergeevich-po.github.io/cssMemSlider/
